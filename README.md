@@ -483,7 +483,7 @@ dotnet publish QianYueTang.CLI/QianYueTang.CLI.csproj `
 
 - **项目主页**：[https://github.com/Murasameprogram/QianYueTang.CLI](https://github.com/Murasameprogram/QianYueTang.CLI)
 - **问题反馈**：[Issues](https://github.com/Murasameprogram/QianYueTang.CLI/issues)
-- **电子邮件**：your-email@example.com
+- **电子邮件**：b051813@163.com
 
 ---
 
